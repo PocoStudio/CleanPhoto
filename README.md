@@ -1,7 +1,6 @@
 # CleanPhoto
 Bienvenue sur l'outil CleanPhoto Tool ! 
 
-![exemple_image](https://github.com/user-attachments/assets/42123596-7d06-4fcf-92ef-276ad3223801)
 
 ***1. Prérequis pour exécuter en Python :***
 
