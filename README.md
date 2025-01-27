@@ -6,9 +6,9 @@ Bienvenue sur l'outil CleanPhoto Tool !
 ***1. Prérequis pour exécuter en Python :***
 
 Installer les bibliothèques nécessaires avec les commandes suivantes :
--> pip install pillow
--> pip install ttkbootstrap
--> pip install hachoir
+- pip install pillow
+- pip install ttkbootstrap
+- pip install hachoir
 
 ***2. Pour compiler le code en exécutable :***
 
