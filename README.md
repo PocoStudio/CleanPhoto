@@ -1,16 +1,23 @@
 # CleanPhoto
 Bienvenue sur l'outil CleanPhoto Tool ! 
 
+***1. Lancer l'exécutable pour choisir sa version :***
+
+- https://github.com/PocoStudio/CleanPhoto/releases
 
 
-***1. Prérequis pour exécuter en Python :***
+***2. Prérequis pour exécuter en Python (ancienne version 1.0.0):***
+
+Télécharger le dossier source ci-dessus.
 
 Installer les bibliothèques nécessaires avec les commandes suivantes :
 - pip install pillow
 - pip install ttkbootstrap
 - pip install hachoir
 
-***2. Pour compiler le code en exécutable :***
+***3. Pour compiler le code en exécutable (ancienne version 1.0.0):***
+
+Télécharger le dossier source ci-dessus.
 
 Prérequis : 
 -> pip install pyinstaller
