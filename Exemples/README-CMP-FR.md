@@ -1,5 +1,5 @@
 # CleanPhoto
-[![en](https://img.shields.io/badge/Change_to_:-en-darkred.svg)](https://github.com/PocoStudio/CleanPhoto/tree/main) [![nl](https://img.shields.io/badge/Change_to_:-nl-orange.svg)](https://github.com/PocoStudio/CleanPhoto/blob/main/Exemples/README-NL.md)<br/>
+[![en](https://img.shields.io/badge/Change_to_:-en-darkred.svg)](https://github.com/PocoStudio/CleanPhoto/tree/main) [![nl](https://img.shields.io/badge/Veranderen_naar_:-nl-orange.svg)](https://github.com/PocoStudio/CleanPhoto/blob/main/Exemples/README-NL.md) [![dl](https://img.shields.io/badge/CleanPhoto-Télécharger-darkgreen.svg)](https://github.com/PocoStudio/CleanPhoto/releases)<br/>
 FR :
 Bienvenue sur l'outil CleanPhoto Tool ! 
 
