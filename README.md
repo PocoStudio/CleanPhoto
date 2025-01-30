@@ -1,5 +1,5 @@
 # CleanPhoto
-[![fr](https://img.shields.io/badge/Change_to_:-fr-blue.svg)](https://github.com/PocoStudio/CleanPhoto/blob/main/Exemples/README-FR.md)<br/>
+[![fr](https://img.shields.io/badge/Change_to_:-fr-blue.svg)](https://github.com/PocoStudio/CleanPhoto/blob/main/Exemples/README-FR.md) [![nl](https://img.shields.io/badge/Change_to_:-nl-orange.svg)](https://github.com/PocoStudio/CleanPhoto/blob/main/Exemples/README-NL.md)<br/>
 EN :
 Welcome to CleanPhoto Tool!
 
