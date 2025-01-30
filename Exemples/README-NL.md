@@ -1,30 +1,30 @@
 # CleanPhoto
-[![en](https://img.shields.io/badge/Change_to_:-en-red.svg)](https://github.com/PocoStudio/CleanPhoto/tree/main)<br/>
+[![en](https://img.shields.io/badge/Change_to_:-en-red.svg)](https://github.com/PocoStudio/CleanPhoto/tree/main) [![fr](https://img.shields.io/badge/Change_to_:-fr-blue.svg)](https://github.com/PocoStudio/CleanPhoto/blob/main/Exemples/README-FR.md)<br/>
 NL :
 Welkom op CleanPhoto Tool ! 
 
-***1. Lancer l'exécutable pour choisir sa version :***
+***1. Voer het uitvoerbare bestand uit om de versie te selecteren :***
 
 - https://github.com/PocoStudio/CleanPhoto/releases
 
 
-***2. Prérequis pour exécuter en Python (ancienne version 1.0.0):***
+***2. Vereisten voor het uitvoeren met Python (oude versie 1.0.0):***
 
-Télécharger le dossier source ci-dessus.
+Download het bovenstaande bronbestand.
 
-Installer les bibliothèques nécessaires avec les commandes suivantes :
+Installeer de benodigde bibliotheken met de volgende commando's:
 - pip install pillow
 - pip install ttkbootstrap
 - pip install hachoir
 
-***3. Pour compiler le code en exécutable (ancienne version 1.0.0):***
+***3. Om de code te compileren tot een uitvoerbaar bestand (oude versie 1.0.0):***
 
-Télécharger le dossier source ci-dessus.
+Download het bovenstaande bronbestand.
 
-Prérequis : 
+Vereisten : 
 -> pip install pyinstaller
 
-Compilation : Lancez la commande suivante dans le terminal :
+Compilatie: Voer het volgende commando uit in de terminal:
 
 pyinstaller --onefile --noconsole --icon=logo.ico --add-data "logo.png;." --hidden-import pillow --hidden-import hachoir --version-file=version.txt cleanphoto.py
 
