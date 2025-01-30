@@ -10,7 +10,7 @@ Welcome to CleanPhoto Tool!
 
 ***2. Prerequisites to execute in Python (old version 1.0.0):***
 
-Download the source file above.
+Download the source folder above.
 
 Install the necessary libraries with the following commands :
 - pip install pillow
