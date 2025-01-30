@@ -1,5 +1,5 @@
 # CleanPhoto
-[![en](https://img.shields.io/badge/Change_to_:-en-red.svg)](https://github.com/PocoStudio/CleanPhoto/tree/main)<br/>
+[![en](https://img.shields.io/badge/Change_to_:-en-darkred.svg)](https://github.com/PocoStudio/CleanPhoto/tree/main)<br/>
 FR :
 Bienvenue sur l'outil CleanPhoto Tool ! 
 
