@@ -18,7 +18,7 @@ Save_statut = False
 try:
     locale.setlocale(locale.LC_TIME, 'fr_FR')
 except:
-    print("Erreur lors du passage de la langue en Français")
+    print("Erreur lors du passage de la langue : Français")
 
 def get_exif_data(image_path):
     try:
